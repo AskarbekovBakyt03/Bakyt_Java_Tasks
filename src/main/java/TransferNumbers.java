@@ -23,7 +23,7 @@ public class TransferNumbers {      //Создаем класс
         System.out.println("Original list: " + list);
         System.out.println("Set of unique numbers: " + set);
         System.out.println("List of duplicates: " + duplicates); // вывод не уникальных чисел
-        System.out.println( duplicates.size());
+        System.out.println( duplicates.size() );
     }
 }
 
